@@ -1,0 +1,8 @@
+nome = input("\nDigite seu nome: ")
+endereco = input("\nDigite se endereço: ")
+telefone = input("\n Digite seu telefone")
+print("\n\n\n")
+print(f"\n Nome: {nome}")
+print(f"\n Endereço: {endereco}")
+print(f"\n Telefone: {telefone}")
+print("\n")

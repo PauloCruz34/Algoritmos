@@ -1,0 +1,5 @@
+num1= int(input("\nDigite um numero inteiro:"))
+num2= int(input("\nDigite outro numero"))
+print(f'\n numero 1 = {num1}')
+print(f'\n numero 2 = {num2}')
+print("\n")
