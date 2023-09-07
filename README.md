@@ -2,7 +2,8 @@
 
 ### Operadores Python
 
-![download](https://github.com/PauloCruz34/Algoritmos/assets/126684518/11dab6fe-4b4b-4121-957d-cbab213b7a70)
+![download](https://github.com/PauloCruz34/Algoritmos/assets/126684518/fecea793-c228-4a68-9720-9500090bd8f2)
+
 
 
 
