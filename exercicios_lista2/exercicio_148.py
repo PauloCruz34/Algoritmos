@@ -22,3 +22,4 @@ elif op == 4:
         print("\n O valor de ida e volta para a R. Sul é R$ 550,00")
 else:
     print("\n Opção inválida")
+print("\n")

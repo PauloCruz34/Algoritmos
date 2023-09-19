@@ -5,4 +5,6 @@ if x > 4 or x < -4 :
     print(f"\n f(x)= {fx}")
 else:
     print("\n Não pode ser feita")
+print("\n")
+
     

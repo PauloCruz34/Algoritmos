@@ -11,3 +11,4 @@ elif imc <= 35:
     print("\n Obeso.")
 else:
     print("\n Obesidade mórbida.")
+print("\n")

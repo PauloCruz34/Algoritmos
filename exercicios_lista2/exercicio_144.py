@@ -11,4 +11,4 @@ if saldoMedio != 0:
     print(f"\n Como seu saldo era de {saldoMedio} seu credito será de {credito}")
 else:
     print(f"Como seu saldo era de {saldoMedio}, você não terá nenhum credito")
-    
+print("\n")    

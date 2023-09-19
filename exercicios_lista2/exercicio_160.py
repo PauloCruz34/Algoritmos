@@ -8,3 +8,4 @@ elif x <= 3:
 else:
     y = x**3
 print(f"\n f(x) = {y}")   
+print("\n")

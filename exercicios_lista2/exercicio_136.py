@@ -12,6 +12,7 @@ elif idade <= 65:
     print(f"{nome} pagara R$ 250,00")
 else:
     print(f"{nome} pagara R$ 400,00")
+print("\n")
     
       
     
