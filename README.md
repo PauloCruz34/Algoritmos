@@ -29,6 +29,9 @@ Baseado em tabela verdade da matemática, ideal para análses simples
 
 ![image](https://github.com/PauloCruz34/Algoritmos/assets/126684518/fb1fe684-e012-4024-9a1d-998a2eedb5a0)
 
+## Repetições
+
+
 
 
 
