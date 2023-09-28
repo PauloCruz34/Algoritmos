@@ -14,4 +14,3 @@ if calculo_nr_triangular == n:
     print(f"é triangular")
 else:
     print(f"O numero não é triangular")
-        
