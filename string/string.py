@@ -14,7 +14,15 @@
 # donuts(5) returns 'Número de donuts: 5'
 # donuts(23) returns 'Número de donuts: muitos'
 def donuts(n):
-    return
+    if n >= 10:
+        return ("muitos")
+    elif n <= 5:
+        return ("Número de donuts: " + str(n))
+    elif n >=20:
+        return("Numero de donuts: muitos")
+    
+        
+        
 
 # B. pontas
 # Dada uma string s, retorna uma string com as duas primeiras e as duas
