@@ -67,13 +67,13 @@ lista.pop() remove o ultimo elemento da lista
 lista.pop(0) remove o elemento da posição 0 da lista
 lista.remove() remove o elemento especificado da lista
 lista.sort() ordena a lista
-lista.sort(reverse=True) ordena a lista de forma reversa    
+lista.sort(reverse=True) ordena a lista de forma reversa
 lista.reverse() inverte a lista
 len(lista) retorna o tamanho da lista
 lista.count() retorna a quantidade de vezes que o elemento aparece na lista
 ## Tuplas
 tupla = () cria uma tupla vazia
-tupla = (1,) cria uma tupla com um elemento 
+tupla = (1,) cria uma tupla com um elemento
 tupla = (1,2,3) cria uma tupla com 3 elementos
 tupla = (1,2,3,4,5,6,7,8,9,10) cria uma tupla com 10 elementos
 tupla = tuple(range(0,10)) cria uma tupla com 10 elementos
@@ -101,6 +101,12 @@ def nome_funcao(parametros):
     return
 nome_funcao(argumentos)
 ## Modularização
+import nome_modulo
+from nome_modulo import nome_funcao
+from nome_modulo import *
+## Pacotes
+
+
 
 
 
